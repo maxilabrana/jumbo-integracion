@@ -24,5 +24,5 @@ Jumbo La Serena presenta ejemplos claros de cuándo la empresa decide "hacer" en
 ---
 **Curso:** Organización Industrial  
 **Institución:** Universidad Católica del Norte (UCN)  
-**Autor:** Maximiliano  
+**Autor:** Maximiliano Labraña,David peñafiel,Vivian Ortiz  
 **Referencia:** Tarziján, J., & Paredes, R. (2006). *Organización Industrial para la Estrategia Empresarial*.
