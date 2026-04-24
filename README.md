@@ -1,20 +1,16 @@
 # Análisis de Organización Industrial: Jumbo La Serena
-**Caso de Estudio: Naturaleza y Objetivos de la Empresa (Capítulo 2 - Tarziján & Paredes)**
+**Caso de Estudio: Capítulo 2 - Tarziján & Paredes**
 
-Este repositorio aplica los conceptos fundamentales de la organización industrial al funcionamiento de **Jumbo La Serena**.
+Este repositorio analiza a **Jumbo La Serena** bajo los conceptos del libro.
 
-## 1. Justificación de la Existencia de la Firma (Costos de Transacción)
-* **Costos de Información:** El cliente ahorra tiempo al encontrar todos los productos en un solo lugar.
-* **Costos de Negociación:** Jumbo negocia por volumen con proveedores para lograr mejores precios.
-* **Costos de Vigilancia:** La empresa asegura estándares sanitarios y de calidad.
+## 1. Costos de Transacción
+Jumbo reduce los costos de búsqueda y negociación al centralizar miles de productos en un solo lugar, facilitando la vida del cliente en La Serena.
 
-## 2. Objetivos y Problemas de Agencia
-* **Separación de Propiedad y Control:** Existe distinción entre los accionistas de Cencosud y la gerencia local.
-* **Conflictos de Agencia:** Se utilizan metas de ventas para alinear a los gerentes con los dueños.
+## 2. Problemas de Agencia
+Cencosud usa metas y bonos para que los gerentes del local actúen según los intereses de los dueños del holding.
 
-## 3. Límites de la Firma e Integración Vertical
-* **Marcas Propias:** Como "Cuisine & Co", para controlar la producción y el margen.
-* **Activos Específicos:** La infraestructura de frío y logística propia del local.
+## 3. Integración Vertical
+Jumbo usa marcas propias (Cuisine & Co) y logística propia para no depender de terceros y controlar sus márgenes.
 
 ---
-**Curso:** Organización Industrial | **UCN**
+**Estudiante:** Maximiliano | **UCN Coquimbo**
