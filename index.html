@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jumbo - Integración Vertical</title>
+</head>
+<body>
+
+<h1>Análisis de Integración Vertical</h1>
+
+<h2>Capítulo 2: Naturaleza y ámbito de la empresa</h2>
+
+<p>
+Este modelo muestra cómo una empresa decide entre usar el mercado o integrar actividades internamente,
+comparando costos de transacción y costos de organización.
+</p>
+
+<label>Costos de Transacción:</label>
+<input type="range" min="0" max="100" value="50" id="slider">
+
+<p id="resultado"></p>
+
+<script>
+const slider = document.getElementById("slider");
+const resultado = document.getElementById("resultado");
+
+slider.oninput = function() {
+  let ct = this.value;
+
+  let costoMercado = 100 - ct;
+  let costoInterno = ct;
+
+  if (costoInterno < costoMercado){
+    resultado.innerHTML = "Conviene INTEGRARSE (hacer internamente)";
+  } else {
+    resultado.innerHTML = "Conviene USAR MERCADO (proveedores)";
+  }
+}
+</script>
+
+</body>
+</html>
